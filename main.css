@@ -24,11 +24,33 @@ body {
   align-items: center;
   height:100vh;
   margin:0;
-  background-image: linear-gradient(var(--soft-violet), var(--soft-blue)) ;
+  background-image: linear-gradient(var(--soft-violet), var(--soft-blue));
 }
+
 .card {
   display:flex;
   width:70%;
   background-color:var(--light-greyish-blue);
   border-radius: 1.5rem;
+}
+
+.card__faq {
+  border: 2px solid black;
+  padding:3rem;
+}
+
+.card__img {
+  border:5px solid blue;
+  width:50%;
+  position:relative;
+}
+
+.card__img__box {
+  border:2px solid black;
+  
+}
+
+.card__img__woman {
+  border:2px solid black;
+  
 }
