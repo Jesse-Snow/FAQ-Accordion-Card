@@ -30,6 +30,7 @@ body {
 .card {
   display:flex;
   width:70%;
+  height:450px;
   background-color:var(--light-greyish-blue);
   border-radius: 1.5rem;
 }
@@ -52,8 +53,8 @@ body {
 }
 
 .card__images {
-  background-image: url('/images/illustration-woman-online-desktop.svg');
+  background-image: url('/images/illustration-woman-online-desktop.svg'),url('images/bg-pattern-desktop.svg');
   height:100%;
   background-repeat: no-repeat;
-  background-position: left -87px center ;
+  background-position: left -87px center,left -600px bottom -130px ;
 }
