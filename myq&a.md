@@ -17,3 +17,14 @@ property of background-size use.
 
 ## How to center verticaly in the Page?
 Normaly i use vh:100% in some div or body and Flex
+
+## What is float property?
+Makes the element float right or left.
+To restrict other element to float in beside 'float element'
+i should use the 'clear' property.
+
+## Can combine pseudo-class and pseudo-elements?
+Yes, i be able to combine :focus and ::after in this project.
+
+## What is the attribute selector?
+Is '[]'.

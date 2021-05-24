@@ -17,6 +17,7 @@ html {
 body {
   margin:0;
   padding:0;
+  font-family: 'Kumbh Sans', sans-serif;
 }
 .content {
   display:flex;
@@ -57,4 +58,46 @@ body {
   height:100%;
   background-repeat: no-repeat;
   background-position: left -87px center,left -600px bottom -130px ;
+}
+
+.card__faq h1 {
+  font-size:3rem;
+}
+
+.card__faq {  
+  overflow: auto;
+  padding-right:7rem;
+}
+.question {
+  font-size:1.2rem;
+  padding:1.5rem 0;
+  cursor:pointer;
+  user-select: none;
+  /* Here */
+}
+.awnser {
+  font-size:1.1rem;
+  margin:0;
+}
+
+.question::marker {
+  content:none;
+}
+.question:focus {
+  color:red; 
+  /* Here */
+}
+.question:hover {
+  color:blue;
+  /* Here */
+}
+.question::after {
+  content: url('images/icon-arrow-down.svg');
+  float: right; 
+}
+details[open] .question::after{
+  content: url('images/icon-arrow-down.svg');
+  float: right;
+  transform: rotate(180deg);
+  /* Here */
 }
