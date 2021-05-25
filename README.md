@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- [Preview]:(https://jesse-snow.github.io/FAQ-Accordion-Card/)
+- [Preview](https://jesse-snow.github.io/FAQ-Accordion-Card/)
 
 ## My process
 
