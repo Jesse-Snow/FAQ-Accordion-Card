@@ -62,6 +62,9 @@ body {
 .card__woman_mobile {
   display:none;
 }
+.card__shadow_mobile {
+  display:none;
+}
 
 .card__faq h1 {
   font-size:3rem;
@@ -136,12 +139,17 @@ details[open] .question {
   }
   .card__woman { display:none;}
   .card__img {
-    margin-bottom: 2rem;
+    margin-bottom: 7rem;
   }
   .card__woman_mobile {
     display:inline-block;
     position: absolute;
     top:-9rem;
+    right:15%;
+  }
+  .card__shadow_mobile {
+    display:inline-block;
+    position: absolute;
     right:15%;
   }
   .card__img__box { display:none;}
