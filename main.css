@@ -54,7 +54,7 @@ body {
 }
 
 .card__woman {
-  background-image: url('/images/illustration-woman-online-desktop.svg'),url('images/bg-pattern-desktop.svg');
+  background-image: url('images/illustration-woman-online-desktop.svg'),url('images/bg-pattern-desktop.svg');
   height:100%;
   background-repeat: no-repeat;
   background-position: left -87px center,left -600px bottom -130px ;

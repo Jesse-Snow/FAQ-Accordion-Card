@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Preview](https://jesse-snow.github.io/FAQ-Accordion-Card/)
 
 ## My process
 
@@ -57,5 +57,4 @@ Know more how to set height and widhts in more responsive way.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- GitHub - [Jesse-Snow](https://github.com/Jesse-Snow)
